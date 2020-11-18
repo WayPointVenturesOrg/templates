@@ -1,4 +1,4 @@
-# what does this template / script do
+# What does this template / script do
 
 List at very high level what the script does and what resources it deploys
 
@@ -6,7 +6,7 @@ List at very high level what the script does and what resources it deploys
 - Creates VM - windows server 2019 datacenter with containers 1903
 - etc.
 
-# list of courses this template iis used in
+## List of courses this template iis used in
 
 List your course here i..e.
 
