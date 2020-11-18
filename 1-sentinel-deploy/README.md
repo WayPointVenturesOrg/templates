@@ -11,6 +11,7 @@ List at very high level what the script does and what resources it deploys
 List your course here i..e.
 
 - \< 2028: azure sentinel data analysis \>
+- etc.
 
 
 > Note: If you require contributor access, please contact your project manager.
