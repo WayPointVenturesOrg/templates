@@ -1,9 +1,16 @@
 # what does this template / script do
 
-- list at very high level what the script does
+List at very high level what the script does and what resources it deploys
 
-# list of courses this template ius used in
+- Creates log analytics workspace - named xyz
+- Creates VM - windows server 2019 datacenter with containers 1903
+- etc.
 
-- please list your course here
+# list of courses this template iis used in
 
-If you require contributor access, and do not already have it, contact your project manager
+List your course here i..e.
+
+- \< 2028: azure sentinel data analysis \>
+
+
+> Note: If you require contributor access, please contact your project manager.
