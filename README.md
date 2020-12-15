@@ -1,6 +1,8 @@
 # Templates
 
-This repo contains deployment templates and scripts to allow testing and re-use across courses
+This repo contains deployment templates and scripts to allow testing and re-use across courses.
+
+This is a temporary location to allow testing of the deployment template or script. After functionality is tested, the location specified in the actual module content will be changed to the production location.
 
 ## Guidelines for use
 
